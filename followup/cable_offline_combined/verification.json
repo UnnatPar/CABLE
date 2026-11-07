@@ -1,0 +1,11 @@
+{
+  "complete_members": 12,
+  "people": 22,
+  "recordings": 29,
+  "independent_scipy_pearson_all_arms_pass": true,
+  "source_and_baseline_hashes_unchanged": true,
+  "member_output_hashes_pass": true,
+  "max_person_score_error": 2.1136299377388923e-09,
+  "elapsed_bound_pass": true,
+  "scope": "Independent ensemble/statistic replay; not independent model training or fresh cohort validation."
+}
