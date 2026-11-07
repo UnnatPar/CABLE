@@ -1,0 +1,3 @@
+**/results/*_preds/
+**/results/*_preds_*/
+__pycache__/

@@ -1,0 +1,296 @@
+{
+ "runs": [
+  "sub01-scan01",
+  "sub01-scan02",
+  "sub02-scan01",
+  "sub02-scan02",
+  "sub03-scan01",
+  "sub03-scan02",
+  "sub04-scan01",
+  "sub04-scan02",
+  "sub05-scan01",
+  "sub05-scan02",
+  "sub06-scan01",
+  "sub06-scan02",
+  "sub07-scan01",
+  "sub07-scan02",
+  "sub08-scan01",
+  "sub08-scan02",
+  "sub09-scan01",
+  "sub10-scan01",
+  "sub10-scan02",
+  "sub11-scan01",
+  "sub11-scan02",
+  "sub12-scan01",
+  "sub12-scan02",
+  "sub13-scan01",
+  "sub13-scan02",
+  "sub14-scan01",
+  "sub14-scan02",
+  "sub15-scan01",
+  "sub15-scan02",
+  "sub16-scan02",
+  "sub17-scan01",
+  "sub17-scan02",
+  "sub18-scan01",
+  "sub18-scan02",
+  "sub19-scan01",
+  "sub19-scan02",
+  "sub20-scan01",
+  "sub20-scan02",
+  "sub21-scan01",
+  "sub21-scan02",
+  "sub22-scan01",
+  "sub22-scan02",
+  "sub23-scan01",
+  "sub23-scan02",
+  "sub24-scan01",
+  "sub24-scan02",
+  "sub25-scan01",
+  "sub25-scan02",
+  "sub26-scan01",
+  "sub26-scan02",
+  "sub27-scan01",
+  "sub27-scan02",
+  "sub28-scan01",
+  "sub28-scan02",
+  "sub29-scan01",
+  "sub29-scan02",
+  "sub30-scan01",
+  "sub30-scan02",
+  "sub31-scan01",
+  "sub31-scan02",
+  "sub32-scan01",
+  "sub32-scan02",
+  "sub33-scan01",
+  "sub33-scan02"
+ ],
+ "folds": [
+  {
+   "name": "c3_00",
+   "test": [
+    "sub30-scan01",
+    "sub30-scan02",
+    "sub31-scan01",
+    "sub31-scan02",
+    "sub32-scan01",
+    "sub32-scan02"
+   ],
+   "val": [
+    "sub01-scan01",
+    "sub01-scan02",
+    "sub02-scan01",
+    "sub02-scan02",
+    "sub03-scan01",
+    "sub03-scan02",
+    "sub04-scan01",
+    "sub04-scan02"
+   ]
+  },
+  {
+   "name": "c3_01",
+   "test": [
+    "sub01-scan01",
+    "sub01-scan02",
+    "sub08-scan01",
+    "sub08-scan02",
+    "sub14-scan01",
+    "sub14-scan02"
+   ],
+   "val": [
+    "sub10-scan01",
+    "sub10-scan02",
+    "sub11-scan01",
+    "sub11-scan02",
+    "sub12-scan01",
+    "sub12-scan02",
+    "sub13-scan01",
+    "sub13-scan02"
+   ]
+  },
+  {
+   "name": "c3_02",
+   "test": [
+    "sub06-scan01",
+    "sub06-scan02",
+    "sub18-scan01",
+    "sub18-scan02",
+    "sub22-scan01",
+    "sub22-scan02"
+   ],
+   "val": [
+    "sub16-scan02",
+    "sub17-scan01",
+    "sub17-scan02",
+    "sub19-scan01",
+    "sub19-scan02",
+    "sub20-scan01",
+    "sub20-scan02"
+   ]
+  },
+  {
+   "name": "c3_03",
+   "test": [
+    "sub02-scan01",
+    "sub02-scan02",
+    "sub10-scan01",
+    "sub10-scan02",
+    "sub29-scan01",
+    "sub29-scan02"
+   ],
+   "val": [
+    "sub24-scan01",
+    "sub24-scan02",
+    "sub25-scan01",
+    "sub25-scan02",
+    "sub26-scan01",
+    "sub26-scan02",
+    "sub27-scan01",
+    "sub27-scan02"
+   ]
+  },
+  {
+   "name": "c3_04",
+   "test": [
+    "sub07-scan01",
+    "sub07-scan02",
+    "sub15-scan01",
+    "sub15-scan02",
+    "sub26-scan01",
+    "sub26-scan02"
+   ],
+   "val": [
+    "sub01-scan01",
+    "sub01-scan02",
+    "sub02-scan01",
+    "sub02-scan02",
+    "sub32-scan01",
+    "sub32-scan02",
+    "sub33-scan01",
+    "sub33-scan02"
+   ]
+  },
+  {
+   "name": "c3_05",
+   "test": [
+    "sub09-scan01",
+    "sub17-scan01",
+    "sub17-scan02",
+    "sub27-scan01",
+    "sub27-scan02"
+   ],
+   "val": [
+    "sub06-scan01",
+    "sub06-scan02",
+    "sub07-scan01",
+    "sub07-scan02",
+    "sub08-scan01",
+    "sub08-scan02",
+    "sub10-scan01",
+    "sub10-scan02"
+   ]
+  },
+  {
+   "name": "c3_06",
+   "test": [
+    "sub03-scan01",
+    "sub03-scan02",
+    "sub05-scan01",
+    "sub05-scan02",
+    "sub23-scan01",
+    "sub23-scan02"
+   ],
+   "val": [
+    "sub15-scan01",
+    "sub15-scan02",
+    "sub16-scan02",
+    "sub17-scan01",
+    "sub17-scan02",
+    "sub18-scan01",
+    "sub18-scan02"
+   ]
+  },
+  {
+   "name": "c3_07",
+   "test": [
+    "sub13-scan01",
+    "sub13-scan02",
+    "sub16-scan02",
+    "sub21-scan01",
+    "sub21-scan02"
+   ],
+   "val": [
+    "sub23-scan01",
+    "sub23-scan02",
+    "sub24-scan01",
+    "sub24-scan02",
+    "sub25-scan01",
+    "sub25-scan02",
+    "sub26-scan01",
+    "sub26-scan02"
+   ]
+  },
+  {
+   "name": "c3_08",
+   "test": [
+    "sub11-scan01",
+    "sub11-scan02",
+    "sub24-scan01",
+    "sub24-scan02",
+    "sub33-scan01",
+    "sub33-scan02"
+   ],
+   "val": [
+    "sub29-scan01",
+    "sub29-scan02",
+    "sub30-scan01",
+    "sub30-scan02",
+    "sub31-scan01",
+    "sub31-scan02",
+    "sub32-scan01",
+    "sub32-scan02"
+   ]
+  },
+  {
+   "name": "c3_09",
+   "test": [
+    "sub19-scan01",
+    "sub19-scan02",
+    "sub20-scan01",
+    "sub20-scan02",
+    "sub25-scan01",
+    "sub25-scan02"
+   ],
+   "val": [
+    "sub04-scan01",
+    "sub04-scan02",
+    "sub05-scan01",
+    "sub05-scan02",
+    "sub06-scan01",
+    "sub06-scan02",
+    "sub07-scan01",
+    "sub07-scan02"
+   ]
+  },
+  {
+   "name": "c3_10",
+   "test": [
+    "sub04-scan01",
+    "sub04-scan02",
+    "sub12-scan01",
+    "sub12-scan02",
+    "sub28-scan01",
+    "sub28-scan02"
+   ],
+   "val": [
+    "sub13-scan01",
+    "sub13-scan02",
+    "sub14-scan01",
+    "sub14-scan02",
+    "sub15-scan01",
+    "sub15-scan02",
+    "sub16-scan02"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+[
+ {
+  "variant": "nets7",
+  "band5": 0.305858888571318,
+  "global_alpha": 0.41615747561572863,
+  "fine_pcs": 0.20515835362459336,
+  "n_subjects": 22
+ },
+ {
+  "variant": "difumo_k10",
+  "band5": 0.3342862223471682,
+  "global_alpha": 0.446156192600827,
+  "fine_pcs": 0.22906173718557898,
+  "n_subjects": 22
+ },
+ {
+  "variant": "difumo_k20",
+  "band5": 0.3433124519896511,
+  "global_alpha": 0.4512612033444888,
+  "fine_pcs": 0.24292465571040414,
+  "n_subjects": 22
+ },
+ {
+  "variant": "difumo_k40",
+  "band5": 0.34351711527275397,
+  "global_alpha": 0.452761269358273,
+  "fine_pcs": 0.23372409209476322,
+  "n_subjects": 22
+ }
+]

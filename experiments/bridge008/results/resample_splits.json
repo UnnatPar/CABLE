@@ -1,0 +1,1758 @@
+[
+ {
+  "val": [
+   "sub06-scan01",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub15-scan01",
+   "sub22-scan01"
+  ],
+  "test": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub11-scan01",
+   "sub16-scan01",
+   "sub18-scan01",
+   "sub21-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub06-scan01",
+   "sub11-scan01",
+   "sub19-scan02",
+   "sub01-scan01",
+   "sub03-scan02"
+  ],
+  "test": [
+   "sub02-scan01",
+   "sub16-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub18-scan01",
+   "sub20-scan01",
+   "sub20-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub05-scan01",
+   "sub21-scan01",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub14-scan01",
+   "sub14-scan02"
+  ],
+  "test": [
+   "sub16-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub06-scan01",
+   "sub15-scan01",
+   "sub11-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub05-scan01",
+   "sub15-scan01",
+   "sub22-scan01"
+  ],
+  "test": [
+   "sub18-scan01",
+   "sub01-scan01",
+   "sub19-scan02",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub11-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub17-scan02",
+   "sub06-scan01"
+  ],
+  "test": [
+   "sub01-scan01",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub10-scan02",
+   "sub22-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub11-scan01",
+   "sub12-scan01",
+   "sub12-scan02"
+  ],
+  "test": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub22-scan01",
+   "sub17-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub15-scan01",
+   "sub18-scan01",
+   "sub02-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub22-scan01",
+   "sub03-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub11-scan01",
+   "sub17-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub11-scan01",
+   "sub02-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ],
+  "test": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub15-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub21-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub04-scan01",
+   "sub20-scan01",
+   "sub20-scan02"
+  ],
+  "test": [
+   "sub03-scan02",
+   "sub06-scan01",
+   "sub11-scan01",
+   "sub10-scan02",
+   "sub16-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub03-scan02",
+   "sub10-scan02",
+   "sub21-scan01",
+   "sub12-scan01",
+   "sub12-scan02"
+  ],
+  "test": [
+   "sub18-scan01",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub19-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub17-scan02",
+   "sub19-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ],
+  "test": [
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub22-scan01",
+   "sub04-scan01",
+   "sub05-scan01",
+   "sub01-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub22-scan01",
+   "sub02-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub17-scan02"
+  ],
+  "test": [
+   "sub03-scan02",
+   "sub11-scan01",
+   "sub01-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub13-scan01",
+   "sub13-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub16-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub15-scan01",
+   "sub18-scan01"
+  ],
+  "test": [
+   "sub04-scan01",
+   "sub17-scan02",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub21-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub18-scan01",
+   "sub15-scan01",
+   "sub16-scan01",
+   "sub09-scan01",
+   "sub09-scan02"
+  ],
+  "test": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub11-scan01",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub01-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub17-scan02",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub04-scan01",
+   "sub07-scan01",
+   "sub07-scan02"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub05-scan01",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub16-scan01",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub06-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ],
+  "test": [
+   "sub22-scan01",
+   "sub04-scan01",
+   "sub02-scan01",
+   "sub03-scan02",
+   "sub05-scan01",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub01-scan01",
+   "sub17-scan02",
+   "sub16-scan01",
+   "sub11-scan01",
+   "sub18-scan01"
+  ],
+  "test": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub05-scan01",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub17-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub02-scan01",
+   "sub15-scan01"
+  ],
+  "test": [
+   "sub19-scan02",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub21-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub20-scan01",
+   "sub20-scan02"
+  ],
+  "test": [
+   "sub17-scan02",
+   "sub05-scan01",
+   "sub21-scan01",
+   "sub03-scan02",
+   "sub11-scan01",
+   "sub14-scan01",
+   "sub14-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub22-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub18-scan01",
+   "sub16-scan01"
+  ],
+  "test": [
+   "sub17-scan02",
+   "sub05-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub01-scan01",
+   "sub07-scan01",
+   "sub07-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub11-scan01",
+   "sub16-scan01",
+   "sub05-scan01",
+   "sub12-scan01",
+   "sub12-scan02"
+  ],
+  "test": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub15-scan01",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub19-scan02",
+   "sub10-scan02"
+  ],
+  "test": [
+   "sub05-scan01",
+   "sub01-scan01",
+   "sub06-scan01",
+   "sub04-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub05-scan01"
+  ],
+  "test": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub16-scan01",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub05-scan01",
+   "sub06-scan01",
+   "sub16-scan01",
+   "sub10-scan02",
+   "sub12-scan01",
+   "sub12-scan02"
+  ],
+  "test": [
+   "sub17-scan02",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub03-scan02",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub22-scan01",
+   "sub21-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub19-scan02"
+  ],
+  "test": [
+   "sub18-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub04-scan01",
+   "sub05-scan01",
+   "sub15-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub22-scan01",
+   "sub18-scan01",
+   "sub16-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub03-scan02",
+   "sub05-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub01-scan01",
+   "sub17-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub21-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub01-scan01",
+   "sub15-scan01"
+  ],
+  "test": [
+   "sub18-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub20-scan01",
+   "sub20-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub16-scan01",
+   "sub02-scan01",
+   "sub01-scan01"
+  ],
+  "test": [
+   "sub17-scan02",
+   "sub21-scan01",
+   "sub05-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub19-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub11-scan01"
+  ],
+  "test": [
+   "sub19-scan02",
+   "sub17-scan02",
+   "sub05-scan01",
+   "sub22-scan01",
+   "sub15-scan01",
+   "sub10-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub19-scan02",
+   "sub01-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub17-scan02"
+  ],
+  "test": [
+   "sub21-scan01",
+   "sub22-scan01",
+   "sub18-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub19-scan02",
+   "sub17-scan02",
+   "sub10-scan02"
+  ],
+  "test": [
+   "sub21-scan01",
+   "sub15-scan01",
+   "sub18-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub11-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub19-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub03-scan02",
+   "sub10-scan02"
+  ],
+  "test": [
+   "sub16-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub15-scan01",
+   "sub20-scan01",
+   "sub20-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub19-scan02",
+   "sub18-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub22-scan01"
+  ],
+  "test": [
+   "sub17-scan02",
+   "sub03-scan02",
+   "sub02-scan01",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub05-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub03-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ],
+  "test": [
+   "sub10-scan02",
+   "sub16-scan01",
+   "sub15-scan01",
+   "sub18-scan01",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub21-scan01",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub19-scan02",
+   "sub15-scan01"
+  ],
+  "test": [
+   "sub06-scan01",
+   "sub10-scan02",
+   "sub02-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub01-scan01",
+   "sub18-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub22-scan01",
+   "sub15-scan01",
+   "sub05-scan01",
+   "sub02-scan01",
+   "sub21-scan01",
+   "sub09-scan01",
+   "sub09-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub18-scan01",
+   "sub03-scan02",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub21-scan01",
+   "sub15-scan01",
+   "sub19-scan02",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub06-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub16-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub10-scan02",
+   "sub22-scan01",
+   "sub18-scan01",
+   "sub04-scan01",
+   "sub14-scan01",
+   "sub14-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub06-scan01",
+   "sub19-scan02",
+   "sub07-scan01",
+   "sub07-scan02"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub02-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub17-scan02",
+   "sub01-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub11-scan01",
+   "sub03-scan02",
+   "sub01-scan01"
+  ],
+  "test": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub13-scan01",
+   "sub13-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub04-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub21-scan01",
+   "sub06-scan01"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub19-scan02",
+   "sub14-scan01",
+   "sub14-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub19-scan02",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub17-scan02",
+   "sub11-scan01"
+  ],
+  "test": [
+   "sub21-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub18-scan01",
+   "sub03-scan02",
+   "sub15-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub21-scan01",
+   "sub01-scan01",
+   "sub22-scan01",
+   "sub09-scan01",
+   "sub09-scan02"
+  ],
+  "test": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub05-scan01",
+   "sub03-scan02",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub18-scan01",
+   "sub03-scan02",
+   "sub15-scan01",
+   "sub04-scan01",
+   "sub19-scan02"
+  ],
+  "test": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub11-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub05-scan01",
+   "sub14-scan01",
+   "sub14-scan02"
+  ],
+  "test": [
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub03-scan02",
+   "sub19-scan02",
+   "sub21-scan01",
+   "sub09-scan01",
+   "sub09-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub01-scan01",
+   "sub04-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub22-scan01"
+  ],
+  "test": [
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub05-scan01",
+   "sub10-scan02",
+   "sub03-scan02",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub03-scan02",
+   "sub22-scan01",
+   "sub17-scan02",
+   "sub14-scan01",
+   "sub14-scan02"
+  ],
+  "test": [
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub02-scan01",
+   "sub19-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub22-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub10-scan02",
+   "sub03-scan02"
+  ],
+  "test": [
+   "sub05-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub01-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub19-scan02"
+  ],
+  "test": [
+   "sub01-scan01",
+   "sub06-scan01",
+   "sub04-scan01",
+   "sub02-scan01",
+   "sub21-scan01",
+   "sub11-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub16-scan01",
+   "sub01-scan01",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub11-scan01"
+  ],
+  "test": [
+   "sub10-scan02",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub03-scan02",
+   "sub15-scan01",
+   "sub14-scan01",
+   "sub14-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub15-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub17-scan02",
+   "sub01-scan01"
+  ],
+  "test": [
+   "sub11-scan01",
+   "sub18-scan01",
+   "sub04-scan01",
+   "sub22-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub02-scan01",
+   "sub03-scan02",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub06-scan01",
+   "sub07-scan01",
+   "sub07-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub18-scan01",
+   "sub01-scan01",
+   "sub21-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ],
+  "test": [
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub15-scan01",
+   "sub10-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub16-scan01",
+   "sub01-scan01",
+   "sub11-scan01"
+  ],
+  "test": [
+   "sub22-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub15-scan01",
+   "sub14-scan01",
+   "sub14-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub01-scan01",
+   "sub02-scan01",
+   "sub05-scan01"
+  ],
+  "test": [
+   "sub10-scan02",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub19-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub05-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub01-scan01",
+   "sub19-scan02",
+   "sub17-scan02",
+   "sub18-scan01",
+   "sub02-scan01",
+   "sub15-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub03-scan02",
+   "sub16-scan01",
+   "sub17-scan02"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub02-scan01",
+   "sub14-scan01",
+   "sub14-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub06-scan01",
+   "sub11-scan01",
+   "sub02-scan01",
+   "sub20-scan01",
+   "sub20-scan02"
+  ],
+  "test": [
+   "sub05-scan01",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub07-scan01",
+   "sub07-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub04-scan01",
+   "sub17-scan02",
+   "sub15-scan01"
+  ],
+  "test": [
+   "sub06-scan01",
+   "sub18-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub14-scan01",
+   "sub14-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub18-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub10-scan02",
+   "sub17-scan02"
+  ],
+  "test": [
+   "sub16-scan01",
+   "sub06-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub06-scan01",
+   "sub01-scan01",
+   "sub18-scan01",
+   "sub04-scan01",
+   "sub20-scan01",
+   "sub20-scan02"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub11-scan01",
+   "sub10-scan02",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub01-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub06-scan01",
+   "sub07-scan01",
+   "sub07-scan02"
+  ],
+  "test": [
+   "sub10-scan02",
+   "sub04-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub18-scan01",
+   "sub02-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub19-scan02",
+   "sub18-scan01",
+   "sub02-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ],
+  "test": [
+   "sub06-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub11-scan01",
+   "sub21-scan01",
+   "sub14-scan01",
+   "sub14-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub06-scan01",
+   "sub09-scan01",
+   "sub09-scan02"
+  ],
+  "test": [
+   "sub19-scan02",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub13-scan01",
+   "sub13-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub10-scan02",
+   "sub15-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub19-scan02"
+  ],
+  "test": [
+   "sub03-scan02",
+   "sub11-scan01",
+   "sub21-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub06-scan01"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub17-scan02",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub10-scan02",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub19-scan02",
+   "sub03-scan02"
+  ],
+  "test": [
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub17-scan02",
+   "sub18-scan01",
+   "sub14-scan01",
+   "sub14-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub06-scan01"
+  ],
+  "test": [
+   "sub19-scan02",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub15-scan01",
+   "sub16-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub06-scan01",
+   "sub04-scan01",
+   "sub05-scan01"
+  ],
+  "test": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub11-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub22-scan01",
+   "sub06-scan01",
+   "sub16-scan01",
+   "sub10-scan02",
+   "sub14-scan01",
+   "sub14-scan02"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub11-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub13-scan01",
+   "sub13-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ],
+  "test": [
+   "sub03-scan02",
+   "sub02-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub16-scan01",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub17-scan02",
+   "sub10-scan02",
+   "sub22-scan01"
+  ],
+  "test": [
+   "sub06-scan01",
+   "sub04-scan01",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub13-scan01",
+   "sub13-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub15-scan01",
+   "sub16-scan01",
+   "sub20-scan01",
+   "sub20-scan02"
+  ],
+  "test": [
+   "sub02-scan01",
+   "sub17-scan02",
+   "sub18-scan01",
+   "sub10-scan02",
+   "sub06-scan01",
+   "sub05-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub03-scan02",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub01-scan01",
+   "sub02-scan01"
+  ],
+  "test": [
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub18-scan01",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub19-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ],
+  "test": [
+   "sub02-scan01",
+   "sub06-scan01",
+   "sub22-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub10-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub16-scan01"
+  ],
+  "test": [
+   "sub18-scan01",
+   "sub17-scan02",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub10-scan02",
+   "sub13-scan01",
+   "sub13-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub03-scan02",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub22-scan01",
+   "sub14-scan01",
+   "sub14-scan02"
+  ],
+  "test": [
+   "sub17-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub02-scan01",
+   "sub15-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub01-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub06-scan01",
+   "sub10-scan02",
+   "sub16-scan01",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub18-scan01",
+   "sub11-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub20-scan01",
+   "sub20-scan02"
+  ],
+  "test": [
+   "sub06-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub10-scan02",
+   "sub17-scan02",
+   "sub21-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub01-scan01",
+   "sub18-scan01",
+   "sub21-scan01",
+   "sub02-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub11-scan01",
+   "sub03-scan02",
+   "sub04-scan01",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub11-scan01",
+   "sub22-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub19-scan02"
+  ],
+  "test": [
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub15-scan01",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub17-scan02",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub07-scan01",
+   "sub07-scan02"
+  ],
+  "test": [
+   "sub06-scan01",
+   "sub11-scan01",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub05-scan01",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub18-scan01",
+   "sub03-scan02",
+   "sub22-scan01",
+   "sub12-scan01",
+   "sub12-scan02"
+  ],
+  "test": [
+   "sub11-scan01",
+   "sub21-scan01",
+   "sub02-scan01",
+   "sub05-scan01",
+   "sub09-scan01",
+   "sub09-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub01-scan01",
+   "sub06-scan01",
+   "sub02-scan01"
+  ],
+  "test": [
+   "sub16-scan01",
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub10-scan02",
+   "sub15-scan01",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub16-scan01",
+   "sub05-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub15-scan01"
+  ],
+  "test": [
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub02-scan01",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub10-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub16-scan01",
+   "sub02-scan01",
+   "sub18-scan01",
+   "sub05-scan01",
+   "sub06-scan01"
+  ],
+  "test": [
+   "sub10-scan02",
+   "sub04-scan01",
+   "sub17-scan02",
+   "sub21-scan01",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub11-scan01",
+   "sub05-scan01",
+   "sub06-scan01"
+  ],
+  "test": [
+   "sub04-scan01",
+   "sub19-scan02",
+   "sub17-scan02",
+   "sub10-scan02",
+   "sub21-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub17-scan02",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub07-scan01",
+   "sub07-scan02"
+  ],
+  "test": [
+   "sub16-scan01",
+   "sub04-scan01",
+   "sub06-scan01",
+   "sub10-scan02",
+   "sub19-scan02",
+   "sub22-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub09-scan01",
+   "sub09-scan02",
+   "sub04-scan01",
+   "sub01-scan01",
+   "sub05-scan01"
+  ],
+  "test": [
+   "sub11-scan01",
+   "sub10-scan02",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub16-scan01",
+   "sub07-scan01",
+   "sub07-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub10-scan02",
+   "sub19-scan02",
+   "sub11-scan01",
+   "sub18-scan01",
+   "sub05-scan01"
+  ],
+  "test": [
+   "sub03-scan02",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub06-scan01",
+   "sub02-scan01",
+   "sub21-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub17-scan02",
+   "sub22-scan01",
+   "sub16-scan01",
+   "sub15-scan01",
+   "sub18-scan01"
+  ],
+  "test": [
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub02-scan01",
+   "sub01-scan01",
+   "sub06-scan01",
+   "sub11-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub06-scan01",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ],
+  "test": [
+   "sub22-scan01",
+   "sub05-scan01",
+   "sub15-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub08-scan01",
+   "sub08-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub17-scan02",
+   "sub19-scan02",
+   "sub21-scan01",
+   "sub15-scan01",
+   "sub08-scan01",
+   "sub08-scan02"
+  ],
+  "test": [
+   "sub16-scan01",
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub04-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub11-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub07-scan01",
+   "sub07-scan02"
+  ],
+  "test": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub15-scan01",
+   "sub19-scan02",
+   "sub18-scan01",
+   "sub05-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub15-scan01",
+   "sub22-scan01",
+   "sub18-scan01"
+  ],
+  "test": [
+   "sub16-scan01",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub01-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub15-scan01",
+   "sub16-scan01",
+   "sub13-scan01",
+   "sub13-scan02"
+  ],
+  "test": [
+   "sub05-scan01",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub02-scan01",
+   "sub19-scan02",
+   "sub17-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub06-scan01",
+   "sub13-scan01",
+   "sub13-scan02",
+   "sub21-scan01",
+   "sub17-scan02"
+  ],
+  "test": [
+   "sub14-scan01",
+   "sub14-scan02",
+   "sub05-scan01",
+   "sub02-scan01",
+   "sub11-scan01",
+   "sub01-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub12-scan01",
+   "sub12-scan02",
+   "sub08-scan01",
+   "sub08-scan02",
+   "sub04-scan01"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub21-scan01",
+   "sub19-scan02",
+   "sub02-scan01"
+  ]
+ },
+ {
+  "val": [
+   "sub02-scan01",
+   "sub11-scan01",
+   "sub18-scan01",
+   "sub09-scan01",
+   "sub09-scan02"
+  ],
+  "test": [
+   "sub03-scan02",
+   "sub20-scan01",
+   "sub20-scan02",
+   "sub19-scan02",
+   "sub15-scan01",
+   "sub12-scan01",
+   "sub12-scan02"
+  ]
+ },
+ {
+  "val": [
+   "sub07-scan01",
+   "sub07-scan02",
+   "sub18-scan01",
+   "sub02-scan01",
+   "sub16-scan01"
+  ],
+  "test": [
+   "sub15-scan01",
+   "sub06-scan01",
+   "sub19-scan02",
+   "sub21-scan01",
+   "sub03-scan02",
+   "sub09-scan01",
+   "sub09-scan02"
+  ]
+ }
+]
