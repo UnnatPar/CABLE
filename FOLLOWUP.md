@@ -81,6 +81,38 @@ private decode repository at the commit listed in the manifest. Across the four 
 pooling gain is positive in every point estimate, its interval excludes zero in two (32 and 17 people)
 and includes zero in the two smallest (8 and 10 people), and only the 32-person cohort clears +0.03.
 
+## Scope and limits from later bridge experiments (BRIDGE-010 to 013)
+
+These later EEG-fMRI experiments (Guhan Venkatachalapathi, October 2026) did not produce a better CABLE.
+They are included so the results above are read in context. Reports, protocols and machine-readable
+summaries are in [`followup/bridge_limits/`](followup/bridge_limits/).
+
+- **On movie data, most of what CABLE predicts is state, not stimulus** (BRIDGE-012, NATVIEW, 21 people).
+  With EEG and fMRI recorded together, the 4-member CABLE ensemble reaches r = 0.151 [0.123, 0.179] on
+  cortex. Heart rate, respiration, pupil, blinks, gaze and motion alone give 0.302, and adding EEG gives
+  0.310 (+0.008 over body signals, not significant for cortex). About two thirds of CABLE's r survives
+  removing the body prediction (partial r 0.098), but after global-signal regression it falls to 0.067.
+  Its predictions do not repeat across repeated viewings of the same movie (cross-repeat r 0.014, CI
+  includes zero). This is a different dataset and condition from the resting-state results above, so the
+  levels are not comparable with 0.44.
+- **CABLE output did not help as training labels for a stimulus encoder** (BRIDGE-011, CineBrain). Adding
+  CABLE pseudo-fMRI lowered encoder accuracy by 0.066 [0.033, 0.098] on five rotated folds, and lowered it
+  by 0.0076 with a production encoder (64 of 70 episodes worse). Real extra fMRI did help, so the data
+  idea is sound; CABLE's output was the wrong source of labels.
+- **The fMRI to EEG direction is not state of the art** (BRIDGE-010, 20 fresh splits). The frozen lagged
+  ridge has median r 0.327, against 0.339 to 0.357 for five competitors, and is significantly worse than
+  each (p <= 0.012; the splits share people, so these p-values are optimistic). The EEG to fMRI claims in
+  this repository concern the other direction.
+- **Group-level ceilings are not CABLE scores** (BRIDGE-013, NATVIEW, 15-20 viewers per movie). Estimated
+  shared stimulus-driven signal that is linearly translatable: fMRI to EEG 0.72 [0.57, 1.55] (posterior
+  alpha and beta); EEG to fMRI 0.34 [0.16, 1.15] on all cortex (not measurable by the registered rule),
+  0.38 [0.22, 1.03] using alpha and beta only, and 0.83 [0.63, 1.61] in the dorsal attention network. At
+  the group level EEG adds +0.08 [0.02, 0.25] beyond body signals. The intervals are wide, and none of this
+  says how accurate a single person's prediction can be.
+
+None of this changes rows 1-4. It bounds how to read them: CABLE's measured skill comes largely from
+coupling to arousal and global state.
+
 ## What is not claimed
 
 - No EEG-conditioned prediction ceiling has been identified. A near-0.9 "ceiling" figure in earlier
@@ -95,6 +127,8 @@ and includes zero in the two smallest (8 and 10 people), and only the 32-person 
 - Source of rows 1-4: Presonance `decode`, branch `codex/cable-followup-validation`, commit
   `0c107207b9b020e87db6c3f285290d029c63084b`. Original CABLE source: Presonance `encode`, branch
   `cable-interpolator`, commit `3c7aaf7b0c7753a058eebda7ef1132d69df096ec`.
+- Source of the BRIDGE-010 to 013 files: Presonance `encode`, branch `cable-interpolator`, commit
+  `0b9676bb338b8b7de01751e96d69f724a32940ad`, under `presonance/fmri-eeg-interpolator/`.
 - ds005795 is pinned at `a225eb4608bd72e20a6aa6aa6fdda09692f77a7f`. Dataset licenses are those on each
   OpenNeuro dataset page.
 - Included: reports, result files, verification receipts and protocol text for rows 1-4. Excluded: raw

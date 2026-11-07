@@ -28,13 +28,40 @@
 Reports are copied verbatim. Where they use first person, it refers to the run that executed the
 protocol.
 
+## Files from `encode` (later bridge experiments)
+
+| Field | Value |
+|---|---|
+| Source repository | Presonance `encode` (private) |
+| Source branch | `cable-interpolator` |
+| Immutable source commit | `0b9676bb338b8b7de01751e96d69f724a32940ad` |
+| Destination path | `followup/bridge_limits/` |
+| Verification | SHA-256 of each file equals SHA-256 of the git blob at the source commit (checked when copied) |
+
+| Destination | Source path in `encode` | SHA-256 |
+|---|---|---|
+| `followup/bridge_limits/BRIDGE_010_RESULTS.md` | `presonance/fmri-eeg-interpolator/BRIDGE_010_RESULTS.md` | `1182ee2ec05b768df60ccfe911213354c7fc1ff4e3075fe08d4ba7bd8fb60832` |
+| `followup/bridge_limits/BRIDGE_011_RESULTS.md` | `presonance/fmri-eeg-interpolator/BRIDGE_011_RESULTS.md` | `72cf93f30224d272f8a695ddee9294029aa0eb309939df79a0c7be5acf08c50e` |
+| `followup/bridge_limits/BRIDGE_012_RESULTS.md` | `presonance/fmri-eeg-interpolator/BRIDGE_012_RESULTS.md` | `1f65543bf5747eaa3b091cc0e4b17d60b028dd97562090ff88a1d5457330b651` |
+| `followup/bridge_limits/BRIDGE_013_RESULTS.md` | `presonance/fmri-eeg-interpolator/BRIDGE_013_RESULTS.md` | `1500c3849dce15e10d5142d1b4a7c17ed5fe5bfd88f7725f8541ab34ff81a3b2` |
+| `followup/bridge_limits/BRIDGE_010_PROTOCOL.md` | `presonance/fmri-eeg-interpolator/experiments/BRIDGE_010_PROTOCOL.md` | `f287ffd92b18dbed20f4cfc05413a72b76c80263eeb9b9399efb31fb463156f0` |
+| `followup/bridge_limits/BRIDGE_012_PROTOCOL.md` | `presonance/fmri-eeg-interpolator/experiments/BRIDGE_012_PROTOCOL.md` | `15360251cad2ba297922f45b0a73b69a9125ae3dc9e50c89943ff826e922eefd` |
+| `followup/bridge_limits/BRIDGE_013_PROTOCOL.md` | `presonance/fmri-eeg-interpolator/experiments/BRIDGE_013_PROTOCOL.md` | `b9a03cd2bbbb7fc7dcd7d560f3b161d4113d2f46c121b91212bcefed40112388` |
+| `followup/bridge_limits/b10_summary.json` | `presonance/fmri-eeg-interpolator/experiments/bridge010/results/b10_summary.json` | `bb6736e33283270ee0d10ad8ad30b42dc7d0af357e89832feb3573e29ed0ecfc` |
+| `followup/bridge_limits/b12_summary.json` | `presonance/fmri-eeg-interpolator/experiments/bridge012/results/b12_summary.json` | `24c89082ac862a3b398d809dcea29f1834a99f00a81fdebaada95c8481a3d383` |
+| `followup/bridge_limits/b13_summary.json` | `presonance/fmri-eeg-interpolator/experiments/bridge013/results/b13_summary.json` | `6b9b310e6763ff1b791b050d6eeb666099d3eea99e7a0057113d05aabe78eb19` |
+
+The BRIDGE-011 protocol, its code and its raw outputs, the BRIDGE-010 to 013 code, the outreach material and
+all other files on that branch are not copied. The BRIDGE-011 numbers quoted in `FOLLOWUP.md` come from its
+results document only.
+
 ## Licence note
 
 The source repository's LICENSE applies CC-BY-NC-4.0 only to the vendored `brain_encoder` component and
 states that other original material in that repository is proprietary to Presonance. The files here are
 original follow-up material, not `brain_encoder` code. They are contributed for inclusion in this
 repository at the discretion of its maintainers; no licence for them is declared by this change. This
-repository currently has no LICENSE file. The underlying datasets keep the licences on their OpenNeuro
+repository currently has no LICENSE file, and no LICENSE file was found at the `encode` source path either. The underlying datasets keep the licences on their OpenNeuro
 pages and are not redistributed here.
 
 ## Excluded material

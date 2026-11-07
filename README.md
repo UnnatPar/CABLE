@@ -30,7 +30,8 @@ caveats and file hashes are in [`FOLLOWUP.md`](FOLLOWUP.md) and [`followup/`](fo
 
 The first two rows and the last two rows use different test sets and are not comparable with each other.
 The feature pipeline is causal, but the scored ensemble z-scores each member's predictions over the whole
-evaluated scan, so the reported scores are offline (see `FOLLOWUP.md`).
+evaluated scan, so the reported scores are offline. Later experiments on movie data also show that CABLE's
+skill there comes largely from coupling to arousal and global state (see `FOLLOWUP.md`).
 
 ## Running the code
 
