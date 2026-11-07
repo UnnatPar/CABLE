@@ -16,6 +16,22 @@ SUBMITTED [COSYNE 2027]
 
 **Figure 2.** **A** Development ablation (17 subjects, nested cross-validation; MEL in the same folds). **B** Data efficiency in development. **C** Per scan: within-person r (NeuroBOLT's intra-scan protocol) against cross-person r (subject never seen).
 
+## Independent follow-up validation
+
+An independent re-run (October 2026) reproduces CABLE's C1a/C1b scores and adds two tests; details,
+caveats and file hashes are in [`FOLLOWUP.md`](FOLLOWUP.md) and [`followup/`](followup/).
+
+| What | Test data | Mean r |
+|---|---|---:|
+| Original CABLE retrained from the pinned source (C1a) | NeuroBOLT, 22 people | 0.4381 |
+| Offline variant (whole-recording normalization + future EEG; not online) | same 22 people | 0.4566 |
+| CABLE trained on 22 people | independent cohort, 32 people | 0.3315 |
+| Same CABLE trained on 66 people | same 32 people | 0.3688 |
+
+The first two rows and the last two rows use different test sets and are not comparable with each other.
+The feature pipeline is causal, but the scored ensemble z-scores each member's predictions over the whole
+evaluated scan, so the reported scores are offline (see `FOLLOWUP.md`).
+
 ## Running the code
 
 ### What you need
