@@ -18,8 +18,7 @@ SUBMITTED [COSYNE 2027]
 
 ## Independent follow-up validation
 
-An independent re-run (October 2026) reproduces CABLE's C1a/C1b scores and adds two tests; details,
-caveats and file hashes are in [`FOLLOWUP.md`](FOLLOWUP.md) and [`followup/`](followup/).
+An independent re-run (October 2026) reproduces CABLE's C1a/C1b scores and adds two tests. Details, caveats and file hashes are in [`FOLLOWUP.md`](FOLLOWUP.md) and [`followup/`](followup/).
 
 | What | Test data | Mean r |
 |---|---|---:|
@@ -28,10 +27,9 @@ caveats and file hashes are in [`FOLLOWUP.md`](FOLLOWUP.md) and [`followup/`](fo
 | CABLE trained on 22 people | independent cohort, 32 people | 0.3315 |
 | Same CABLE trained on 66 people | same 32 people | 0.3688 |
 
-The first two rows and the last two rows use different test sets and are not comparable with each other.
-The feature pipeline is causal, but the scored ensemble z-scores each member's predictions over the whole
-evaluated scan, so the reported scores are offline. Later experiments on movie data also show that CABLE's
-skill there comes largely from coupling to arousal and global state (see `FOLLOWUP.md`).
+**Reading the table.** The first two rows and the last two rows use different test sets and are not comparable with each other. Pooling 22 to 66 training people gains +0.0373 (95% CI +0.0200 to +0.0564, 24 of 32 people improved); on three smaller held-out cohorts the gain was smaller (+0.0118, +0.0080, +0.017) and its interval includes zero in two of them. The offline variant gains +0.0186, below the +0.03 screen set in advance.
+
+**Limits.** The feature pipeline is causal, but the scored ensemble z-scores each member's predictions over the whole evaluated scan, so the reported scores are offline and no strictly online score is given. On movie data (NATVIEW, 21 people) CABLE reaches r = 0.151 on cortex, against 0.302 for heart rate, respiration, pupil, blinks, gaze and motion alone, so most of its skill there is arousal and global state rather than stimulus. CABLE-predicted fMRI did not help as training labels for a stimulus encoder, and on the primary comparison the fMRI to EEG direction trails five competitors.
 
 ## Running the code
 
@@ -138,8 +136,12 @@ experiments/bridge003-008/  shared library and NeuroBOLT feature extraction; rev
 experiments/bridge009/      CABLE (b9lib.py, b9confirm.py), MEL reimplementation, NeuroBOLT re-runs,
                             external dataset, analysis; results/ holds the scores used in the paper
 experiments/reverse_controls/  controls for the fMRI -> EEG result
+FOLLOWUP.md                 independent follow-up validation: results, caveats and limits
+followup/                   reports, result files and protocols behind FOLLOWUP.md, with a SHA-256 manifest
 ```
 
 ## Credits
 
 Tejas Bharadwaj, Guhan Venkatachalapathi, Unnat Parsana
+
+Contributors: Ashay Sarda, Vihaan Shringi
