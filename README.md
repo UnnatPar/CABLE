@@ -142,6 +142,4 @@ followup/                   reports, result files and protocols behind FOLLOWUP.
 
 ## Credits
 
-Tejas Bharadwaj, Guhan Venkatachalapathi, Unnat Parsana
-
-Contributors: Ashay Sarda, Vihaan Shringi
+Tejas Bharadwaj, Guhan Venkatachalapathi, Unnat Parsana, Ashay Sarda, Vihaan Shringi
